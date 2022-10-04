@@ -6,3 +6,6 @@ It uses various external programs such as sunwait and weather to make decisions 
 to turn lights and other devices on and off.
 
 It can make decisions based on almost any variable you can read with BASH.
+
+I know the scripts are a mess. I'll clean them up some day, but they really weren't
+meant for general consumption, they're here in case it inspires you to do something similar. 
